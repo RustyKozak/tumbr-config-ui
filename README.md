@@ -20,6 +20,7 @@ TumblrConfig is a browser native UI tool for not so tech savy or savy individual
 - [ ] Convert and export from one type of config to another
 - [ ] Search capabilities
 - [ ] Compare two different configs to see what changed
+- [ ] Implement CICD workflows
 
 __Feature Requests__
 
@@ -28,5 +29,9 @@ If you have an idea please submit an issue on github using a 'feature-request' t
 ## Contributions
 
 Help is always welcomed, for feature developement I'd like to stay as close to the roadmap as possible, but feel free to submit PRs for bugs.
+
+## Developement
+
+This part will be updated shortly along with the branching strategy.
 
 

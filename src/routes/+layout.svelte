@@ -1,5 +1,8 @@
-<script lang="ts">
+<script lang="ts" module>
 	import '../app.css';
+</script>
+
+<script lang="ts">
 	let { children } = $props();
 </script>
 
